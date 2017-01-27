@@ -11,7 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font: sans-serif;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -23,6 +23,6 @@ body {
 }
 
 .img-flex {
-  width:100%;
-  display:block;
+  width: 100%;
+  display: block;
 }
